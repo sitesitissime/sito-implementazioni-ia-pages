@@ -212,11 +212,28 @@
     "restoredNotice": "Versione iniziale caricata. Premi Salva per confermare."
   },
   "contact": {
-    "url": ""
+    "url": "",
+    "channels": [
+      {
+        "id": "whatsapp",
+        "label": "WhatsApp",
+        "url": "https://wa.me/393505821003"
+      },
+      {
+        "id": "telegram",
+        "label": "Telegram",
+        "url": "https://t.me/nomad_echx"
+      },
+      {
+        "id": "email",
+        "label": "Email",
+        "url": "mailto:nomadecho.existing650@passmail.net"
+      }
+    ]
   },
   "appearance": {
     "cardBlur": 0,
-    "glassMode": "liquid",
+    "glassMode": "opaque",
     "backgrounds": {
       "selected": {
         "dark": "smm-orizzonte-marziano"
