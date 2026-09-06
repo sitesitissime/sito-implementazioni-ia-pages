@@ -21,7 +21,7 @@
     "notice": "Il testo viene aperto su Telegram e l’invio viene completato da te nell’app. Non stai parlando con un assistente IA.",
     "primaryChannel": "telegram",
     "alternateChannel": "whatsapp",
-    "backendUrl": ""
+    "backendUrl": "https://sito-implementazione-ia-chat.cloudfaredominio-reshoot713.workers.dev"
   },
   "packages": [
     {
