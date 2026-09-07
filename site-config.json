@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "savedAt": "2026-09-05T17:19:27.519Z",
+  "savedAt": "2026-09-07T10:34:36.325Z",
   "services": [
     {
       "id": "customer-service",
@@ -234,9 +234,11 @@
   "appearance": {
     "cardBlur": 0,
     "glassMode": "opaque",
+    "designMode": "minimal",
+    "backgroundHalo": false,
     "backgrounds": {
       "selected": {
-        "dark": "smm-orizzonte-marziano"
+        "dark": "galaxy-lilac"
       },
       "hiddenIds": {
         "dark": [
@@ -250,15 +252,96 @@
           "cosmic-portal",
           "star-field-vertical",
           "smm-deserto-dorato",
+          "smm-orizzonte-marziano",
           "smm-mare-di-nuvole",
           "smm-lago-rosa",
           "smm-mare-bioluminescente",
-          "smm-prato-viola"
+          "smm-prato-viola",
+          "pastel-gold-lilac",
+          "pastel-galaxy-blue-pink",
+          "pastel-nebula-aqua-peach",
+          "pastel-galaxy-peach",
+          "pastel-lilac-cloud",
+          "pastel-nebula-coral",
+          "pastel-nebula-pink-blue",
+          "pastel-nebula-mint",
+          "pastel-cosmic-portal",
+          "pastel-gold-mint",
+          "custom-mtr3chuz-aabd1921",
+          "custom-mtr3chxd-8ea8ea23",
+          "custom-mtr3chyi-6e8084d0",
+          "custom-mtr3ci0q-17ec4593",
+          "custom-mtr3ci1s-de23365e",
+          "custom-mtr3ci2u-4fcf0f6f",
+          "custom-mtr3ci3r-bf41e18b",
+          "custom-mtr3ci51-449abc37"
         ]
       },
       "enabled": {
         "dark": true
-      }
+      },
+      "custom": [
+        {
+          "id": "custom-mtr3chuz-aabd1921",
+          "name": "ChatGPT Image 7 set 2026, 11_08_48",
+          "src": "./backgrounds/custom-mtr3chuz-aabd1921.png",
+          "kind": "original"
+        },
+        {
+          "id": "custom-mtr3chwc-4927b439",
+          "name": "ChatGPT Image 7 set 2026, 11_08_34",
+          "src": "./backgrounds/custom-mtr3chwc-4927b439.png",
+          "kind": "original"
+        },
+        {
+          "id": "custom-mtr3chxd-8ea8ea23",
+          "name": "ChatGPT Image 7 set 2026, 11_08_18",
+          "src": "./backgrounds/custom-mtr3chxd-8ea8ea23.png",
+          "kind": "original"
+        },
+        {
+          "id": "custom-mtr3chyi-6e8084d0",
+          "name": "ChatGPT Image 7 set 2026, 11_08_11",
+          "src": "./backgrounds/custom-mtr3chyi-6e8084d0.png",
+          "kind": "original"
+        },
+        {
+          "id": "custom-mtr3chzu-89e3cb02",
+          "name": "ChatGPT Image 7 set 2026, 11_07_42",
+          "src": "./backgrounds/custom-mtr3chzu-89e3cb02.png",
+          "kind": "original"
+        },
+        {
+          "id": "custom-mtr3ci0q-17ec4593",
+          "name": "ChatGPT Image 7 set 2026, 11_07_09",
+          "src": "./backgrounds/custom-mtr3ci0q-17ec4593.png",
+          "kind": "original"
+        },
+        {
+          "id": "custom-mtr3ci1s-de23365e",
+          "name": "ChatGPT Image 7 set 2026, 10_59_27",
+          "src": "./backgrounds/custom-mtr3ci1s-de23365e.png",
+          "kind": "original"
+        },
+        {
+          "id": "custom-mtr3ci2u-4fcf0f6f",
+          "name": "ChatGPT Image 7 set 2026, 10_59_16",
+          "src": "./backgrounds/custom-mtr3ci2u-4fcf0f6f.png",
+          "kind": "original"
+        },
+        {
+          "id": "custom-mtr3ci3r-bf41e18b",
+          "name": "ChatGPT Image 7 set 2026, 10_43_36",
+          "src": "./backgrounds/custom-mtr3ci3r-bf41e18b.png",
+          "kind": "original"
+        },
+        {
+          "id": "custom-mtr3ci51-449abc37",
+          "name": "ChatGPT Image 6 set 2026, 19_47_46",
+          "src": "./backgrounds/custom-mtr3ci51-449abc37.png",
+          "kind": "original"
+        }
+      ]
     }
   }
 }
