@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "savedAt": "2026-09-07T10:34:36.325Z",
+  "savedAt": "2026-09-07T10:45:03.735Z",
   "services": [
     {
       "id": "customer-service",
@@ -232,13 +232,13 @@
     ]
   },
   "appearance": {
-    "cardBlur": 0,
+    "cardBlur": 13,
     "glassMode": "opaque",
     "designMode": "minimal",
     "backgroundHalo": false,
     "backgrounds": {
       "selected": {
-        "dark": "galaxy-lilac"
+        "dark": "custom-mtr3chwc-4927b439"
       },
       "hiddenIds": {
         "dark": [
@@ -274,7 +274,8 @@
           "custom-mtr3ci1s-de23365e",
           "custom-mtr3ci2u-4fcf0f6f",
           "custom-mtr3ci3r-bf41e18b",
-          "custom-mtr3ci51-449abc37"
+          "custom-mtr3ci51-449abc37",
+          "galaxy-lilac"
         ]
       },
       "enabled": {
